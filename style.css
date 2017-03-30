@@ -60,7 +60,7 @@ h2 {
 p {
 	text-align: left;
 	font-family: 'Arial';
-	font-size: 12px;
+	font-size: 16px;
 	color: #777777;
 }
 button {
@@ -94,7 +94,7 @@ footer {
 	padding: 20px;
 	clear: both;
 	font-family: "Arial";
-	font-size: 10px;
+	font-size: 15px;
 	color: #ffffff;
 	border-style: solid none none none;
 	border-top-color: #4aaaa5;
